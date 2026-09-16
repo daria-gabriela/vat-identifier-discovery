@@ -1,0 +1,15 @@
+# Raw Companies House data is hundreds of MB.
+# We do not want to upload it to GitHub.
+data/raw/
+
+# Python cache files.
+__pycache__/
+*.pyc
+
+# Virtual environments.
+venv/
+.venv/
+
+# IDE files.
+.vscode/
+.idea/

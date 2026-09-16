@@ -1,0 +1,45 @@
+VAT Identifier Discovery - Sampling Statistics
+==============================================
+
+Companies House snapshot: 2026-09-01
+Random seed: 20260914
+Sample size: 200
+
+Rows loaded: 5,689,366
+Active rows: 5,171,599
+Explicit dormant excluded: 565,741
+Eligible population: 4,605,858
+
+Sample SHA-256: c8bc998c3e6f250c11ddb709a91c1620f56b28dc4b012925cb390e5f5854335e
+
+Company category distribution
+-----------------------------
+company_category
+Private Limited Company                                                                      183
+Limited Partnership                                                                            5
+Community Interest Company                                                                     5
+PRI/LTD BY GUAR/NSC (Private, limited by guarantee, no share capital)                          3
+PRI/LBG/NSC (Private, Limited by guarantee, no share capital, use of 'Limited' exemption)      2
+Overseas Entity                                                                                1
+Private Unlimited Company                                                                      1
+
+Accounts category distribution
+------------------------------
+accounts_category
+MICRO ENTITY            69
+NO ACCOUNTS FILED       64
+TOTAL EXEMPTION FULL    54
+UNAUDITED ABRIDGED       6
+SMALL                    4
+FULL                     3
+
+Registered address country distribution
+---------------------------------------
+address_country
+ENGLAND             110
+UNITED KINGDOM       53
+MISSING              20
+SCOTLAND             11
+NORTHERN IRELAND      3
+WALES                 2
+ISLE OF MAN           1

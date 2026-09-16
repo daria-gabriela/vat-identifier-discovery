@@ -1,0 +1,19 @@
+{
+  "sample_size": 200,
+  "candidate_companies": 24,
+  "candidate_pairs_checked": 33,
+  "unique_candidate_vats": 33,
+  "hmrc_valid_vats": 32,
+  "verified_matches": 21,
+  "valid_wrong_entity": 11,
+  "invalid_candidates": 1,
+  "ambiguous_candidates": 0,
+  "verified_companies": 21,
+  "vat_validity_rate": 0.9696969696969697,
+  "candidate_precision": 0.6363636363636364,
+  "candidate_false_positive_rate": 0.36363636363636365,
+  "raw_candidate_company_coverage": 0.12,
+  "verified_sample_coverage": 0.105,
+  "candidate_company_success_rate": 0.875,
+  "wrong_entity_among_valid_vats": 0.34375
+}

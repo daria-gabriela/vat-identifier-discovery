@@ -1,0 +1,19 @@
+{
+  "environment": "sandbox",
+  "oauth_authentication": "SUCCESS",
+  "real_candidates_tested": false,
+  "poc_metrics_calculated": false,
+  "sandbox_vat_tested": true,
+  "sandbox_vat": "GB553557881",
+  "sandbox_response": {
+    "hmrc_status": "VALID",
+    "hmrc_http_status": 200,
+    "hmrc_name": "Credite Sberger Donal Inc.",
+    "hmrc_vat_number": "553557881",
+    "hmrc_address": "131B Barton Hamlet, SW97 5CK, GB",
+    "hmrc_postcode": "SW97 5CK",
+    "hmrc_country_code": "GB",
+    "hmrc_processing_date": "2026-09-14T21:28:03+01:00",
+    "hmrc_error": ""
+  }
+}
